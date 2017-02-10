@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "the Mooving Store",
-    "currentPage": "index.html",
+    "currentPage": "the-mooving-company.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -85,7 +85,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#8c0200!important"
+              "color": "#90a878!important"
             }
           },
           "_name": "ext.menu",
@@ -96,7 +96,7 @@
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
             "logo": true,
             "showBrand": true,
@@ -125,7 +125,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">THE MOOVING STORE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\">CONTACT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"the-mooving-company.html\">the MOOving Company</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact-us.html\">(970) 964-4475</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html\">About Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"the-mooving-company.html\">the MOOving Company</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact-us.html\">(970) 964-4475</a></li>"
         },
         {
           "_tags": [
@@ -172,8 +172,118 @@
             }
           },
           "title": "the MOOving Store",
-          "text": "Western Colorado's Largest Conisgnment Store",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "text": "Western Colorado's Largest Consignment Store",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "72px"
+            }
+          }
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery4",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "images": [
+              {
+                "tags": "Living Areas",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/storeimage-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/storeimage-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Living Areas",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/storeimage1-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/storeimage1-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Entryways",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/storeimage2-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/storeimage2-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Living Areas",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/storeimage3-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/storeimage3-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Living Areas",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/storeimage4-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/storeimage4-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Home Decor",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/storeimage5-2000x1124-800x449.jpg",
+                "image": "@PROJECT_PATH@/assets/images/storeimage5-2000x1124.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Entryways",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/storeimage7-2000x1124-800x449.jpg",
+                "image": "@PROJECT_PATH@/assets/images/storeimage7-2000x1124.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Entryways",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/storeimage9-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/storeimage9-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": true,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery4-4",
+          "articleLayout": false,
+          "allItem": "All"
         },
         {
           "_styles": {
@@ -290,110 +400,13 @@
           },
           "title": "We've Raised the STEAKS by being GRADE A PRIME!",
           "text": "&nbsp;Most of us have a busy life and we have to MOOve quick just to keep up! That's where The MOOving Store comes in!<br><br>Whether you're looking for the one specific item or looking to make cash on the dash by consigning, we're it!   With over 10,000 square feet of shopping you can most likely find what you want when you want it all in one place! That's the beauty of shopping in the largest consignment store on the Western Slope of Colorado.<br><br>Find out more about us by following us below! Looking to see our new items? See our Facebook and Twitter where different items are added to each one. Follow us and like us to see all of our newest items, coupons and sales. Like free things?? Participate in our contests and giveaways by following and LIKING us!<br><br>The MOOving Store offers the friendly service that you deserve. So come on in and see what we have to offer! And remember, if you like us, tell your friends, if you don't like us... tell your enemies!<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
-        },
-        {
-          "_inherit": "gallery1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery4",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "images": [
-              {
-                "tags": "Living Areas",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/storeimage-2000x1125-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/storeimage-2000x1125.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Living Areas",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/storeimage1-2000x1125-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/storeimage1-2000x1125.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Entryways",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/storeimage2-2000x1125-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/storeimage2-2000x1125.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Living Areas",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/storeimage3-2000x1125-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/storeimage3-2000x1125.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Living Areas",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/storeimage4-2000x1125-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/storeimage4-2000x1125.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Home Decor",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/storeimage5-2000x1124-800x449.jpg",
-                "image": "@PROJECT_PATH@/assets/images/storeimage5-2000x1124.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Entryways",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/storeimage7-2000x1124-800x449.jpg",
-                "image": "@PROJECT_PATH@/assets/images/storeimage7-2000x1124.jpg",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Entryways",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/storeimage9-2000x1125-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/storeimage9-2000x1125.jpg",
-                "caption": "Type caption here",
-                "active": false
-              }
-            ],
-            "spacing": 1,
-            "showText": false,
-            "filter": true,
-            "bgColor": "fff",
-            "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": true
-          },
-          "_anchor": "gallery4-4",
-          "articleLayout": false,
-          "allItem": "All"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_styles": {
+            "H3": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            }
+          }
         },
         {
           "_styles": {
@@ -419,6 +432,10 @@
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
             }
           },
           "_tags": [
@@ -471,6 +488,17 @@
             "Theme"
           ],
           "_name": "contacts2",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            },
+            "STRONG": {
+              "color": "#000000"
+            },
+            "UL": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "contacts2-8",
           "_params": {
             "paddingTop": 3,
@@ -491,24 +519,18 @@
             }
           },
           "text1": "<strong>the MOOving Store</strong><br>\n12059 6300 Road<br>Montrose, CO 81401<br><br><br>\n<strong>Contacts</strong><br>Phone: (970) 964 4475<br>",
-          "text2": "<strong>Links</strong><ul><li><a href=\"index.html\">Home</a></li><li><a href=\"about-us.html\">About Us</a></li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact-us.html\">Contact Us</a></span></li><li><a href=\"the-mooving-company.html\">the MOOving Company</a></li></ul>",
-          "_styles": {
-            "P": {
-              "color": "#000000"
-            },
-            "STRONG": {
-              "color": "#000000"
-            },
-            "UL": {
-              "color": "#000000"
-            }
-          }
+          "text2": "<strong>Links</strong><ul><li><a href=\"index.html\">Home</a></li><li><a href=\"about-us.html\">About Us</a></li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact-us.html\">Contact Us</a></span></li><li><a href=\"the-mooving-company.html\">the MOOving Company</a></li></ul>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
+          "_styles": {
+            "I": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "footer1-9",
           "_params": {
             "paddingTop": 2,
@@ -522,12 +544,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<i>This site is solely for demonstrative purposes. Copyright © 2017 Christopher Ryan, (970) 817-8090. All copyrights retained until properly licensed. Proudly crafted in Delta, Colorado by <a href=\"http://www.IgniteMX.com\" target=\"_blank\" class=\"text-warning\">IgniteMX</a>.</i>",
-          "_styles": {
-            "I": {
-              "color": "#000000"
-            }
-          }
+          "text": "<i>This site is not yet licensed for commercial usage. Copyright © 2017 Christopher Ryan, (970) 817-8090.<br>All copyrights retained until properly licensed. Proudly crafted in Delta, Colorado by <a href=\"http://www.IgniteMX.com\" target=\"_blank\" class=\"text-warning\">IgniteMX</a>.</i>"
         }
       ]
     },
@@ -543,6 +560,17 @@
             "Theme"
           ],
           "_name": "header4",
+          "_styles": {
+            ".mbr-section-title P": {
+              "text-align": "right",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "80px"
+            },
+            ".mbr-section-lead SPAN": {
+              "font-size": "20px"
+            }
+          },
           "_anchor": "header4-e",
           "_params": {
             "parallax": true,
@@ -567,12 +595,7 @@
           },
           "title": "<p>the MOOving Company</p>",
           "text": "<span style=\"font-size: 1.5rem; line-height: 1.5;\">Located in Montrose, Colorado and serving &nbsp;all of Western Colorado and beyond.</span><br><b>We are udderly the best!</b><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE ABOUT US</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"the-mooving-company.html\" data-toolbar=\"-mbrBtnMove\">CALL US 970-240-3106</a>",
-          "_styles": {
-            ".mbr-section-title P": {
-              "text-align": "right"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE ABOUT US</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"the-mooving-company.html\" data-toolbar=\"-mbrBtnMove\">CALL US 970-240-3106</a>"
         },
         {
           "_tags": [
@@ -582,8 +605,8 @@
           "_anchor": "msg-box5-f",
           "_params": {
             "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -605,7 +628,11 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x933.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -673,7 +700,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#8c0200!important"
+              "color": "#90a878!important"
             }
           },
           "_name": "ext.menu",
@@ -684,7 +711,7 @@
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
             "logo": true,
             "showBrand": true,
@@ -715,6 +742,17 @@
             "Theme"
           ],
           "_name": "contacts2",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            },
+            "STRONG": {
+              "color": "#000000"
+            },
+            "UL": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "contacts2-c",
           "_params": {
             "paddingTop": 3,
@@ -735,24 +773,18 @@
             }
           },
           "text1": "<strong>the MOOving Store</strong><br>\n12059 6300 Road<br>Montrose, CO 81401<br><br><br>\n<strong>Contacts</strong><br>Phone: (970) 964 4475<br>",
-          "text2": "<strong>Links</strong><ul><li><a href=\"index.html\">Home</a></li><li><a href=\"about-us.html\">About Us</a></li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact-us.html\">Contact Us</a></span></li><li><a href=\"the-mooving-company.html\">the MOOving Company</a></li></ul>",
-          "_styles": {
-            "P": {
-              "color": "#000000"
-            },
-            "STRONG": {
-              "color": "#000000"
-            },
-            "UL": {
-              "color": "#000000"
-            }
-          }
+          "text2": "<strong>Links</strong><ul><li><a href=\"index.html\">Home</a></li><li><a href=\"about-us.html\">About Us</a></li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact-us.html\">Contact Us</a></span></li><li><a href=\"the-mooving-company.html\">the MOOving Company</a></li></ul>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
+          "_styles": {
+            "I": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "footer1-d",
           "_params": {
             "paddingTop": 2,
@@ -766,12 +798,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<i>This site is solely for demonstrative purposes. Copyright © 2017 Christopher Ryan, (970) 817-8090. All copyrights retained until properly licensed. Proudly crafted in Delta, Colorado by <a href=\"http://www.IgniteMX.com\" target=\"_blank\" class=\"text-warning\">IgniteMX</a>.</i>",
-          "_styles": {
-            "I": {
-              "color": "#000000"
-            }
-          }
+          "text": "<i>This site is solely for demonstrative purposes. Copyright © 2017 Christopher Ryan, (970) 817-8090. All copyrights retained until properly licensed. Proudly crafted in Delta, Colorado by <a href=\"http://www.IgniteMX.com\" target=\"_blank\" class=\"text-warning\">IgniteMX</a>.</i>"
         }
       ]
     },
@@ -831,7 +858,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#8c0200!important"
+              "color": "#90a878!important"
             }
           },
           "_name": "ext.menu",
@@ -842,7 +869,7 @@
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
             "logo": true,
             "showBrand": true,
@@ -866,13 +893,21 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">THE MOOVING STORE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\">CONTACT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"the-mooving-company.html\">the MOOving Company</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact-us.html\">(970) 964-4475</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html\">About Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"the-mooving-company.html\">the MOOving Company</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact-us.html\">(970) 964-4475</a></li>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "form1-j",
           "_params": {
             "labelsColor": "#232323",
@@ -881,11 +916,11 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/8385056-cow-background-a-2000x875.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.3",
+            "overlayColor": "#000000",
             "showTitle": true,
             "showSubTitle": true
           },
@@ -918,18 +953,24 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "contacts2",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            },
+            "STRONG": {
+              "color": "#000000"
+            },
+            "UL": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "contacts2-h",
           "_params": {
             "paddingTop": 3,
@@ -950,24 +991,18 @@
             }
           },
           "text1": "<strong>the MOOving Store</strong><br>\n12059 6300 Road<br>Montrose, CO 81401<br><br><br>\n<strong>Contacts</strong><br>Phone: (970) 964 4475<br>",
-          "text2": "<strong>Links</strong><ul><li><a href=\"index.html\">Home</a></li><li><a href=\"about-us.html\">About Us</a></li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact-us.html\">Contact Us</a></span></li><li><a href=\"the-mooving-company.html\">the MOOving Company</a></li></ul>",
-          "_styles": {
-            "P": {
-              "color": "#000000"
-            },
-            "STRONG": {
-              "color": "#000000"
-            },
-            "UL": {
-              "color": "#000000"
-            }
-          }
+          "text2": "<strong>Links</strong><ul><li><a href=\"index.html\">Home</a></li><li><a href=\"about-us.html\">About Us</a></li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact-us.html\">Contact Us</a></span></li><li><a href=\"the-mooving-company.html\">the MOOving Company</a></li></ul>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
+          "_styles": {
+            "I": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "footer1-i",
           "_params": {
             "paddingTop": 2,
@@ -981,12 +1016,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<i>This site is solely for demonstrative purposes. Copyright © 2017 Christopher Ryan, (970) 817-8090. All copyrights retained until properly licensed. Proudly crafted in Delta, Colorado by <a href=\"http://www.IgniteMX.com\" target=\"_blank\" class=\"text-warning\">IgniteMX</a>.</i>",
-          "_styles": {
-            "I": {
-              "color": "#000000"
-            }
-          }
+          "text": "<i>This site is not yet licensed for commercial usage. Copyright © 2017 Christopher Ryan, (970) 817-8090.<br>All copyrights retained until properly licensed. Proudly crafted in Delta, Colorado by <a href=\"http://www.IgniteMX.com\" target=\"_blank\" class=\"text-warning\">IgniteMX</a>.</i>"
         }
       ]
     },
@@ -1046,7 +1076,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#8c0200!important"
+              "color": "#90a878!important"
             }
           },
           "_name": "ext.menu",
@@ -1057,7 +1087,7 @@
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
             "logo": true,
             "showBrand": true,
@@ -1087,7 +1117,9 @@
           "_inherit": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#000"
+              "color": "#000",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
             },
             ".mbr-section-lead": {
               "color": "#9c9a9a"
@@ -1164,6 +1196,11 @@
             "Theme"
           ],
           "_name": "footer1",
+          "_styles": {
+            "I": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "footer1-m",
           "_params": {
             "paddingTop": 2,
@@ -1177,12 +1214,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<i>This site is solely for demonstrative purposes. Copyright © 2017 Christopher Ryan, (970) 817-8090. All copyrights retained until properly licensed. Proudly crafted in Delta, Colorado by <a href=\"http://www.IgniteMX.com\" target=\"_blank\" class=\"text-warning\">IgniteMX</a>.</i>",
-          "_styles": {
-            "I": {
-              "color": "#000000"
-            }
-          }
+          "text": "<i>This site is solely for demonstrative purposes. Copyright © 2017 Christopher Ryan, (970) 817-8090. All copyrights retained until properly licensed. Proudly crafted in Delta, Colorado by <a href=\"http://www.IgniteMX.com\" target=\"_blank\" class=\"text-warning\">IgniteMX</a>.</i>"
         }
       ]
     }

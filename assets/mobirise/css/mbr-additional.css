@@ -1,6 +1,10 @@
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+
+
+
 
 
 
@@ -473,11 +477,18 @@ h6,
 }
 #ext_menu-0 .link[aria-expanded="true"],
 #ext_menu-0 .dropdown-item[aria-expanded="true"] {
-  color: #8c0200!important;
+  color: #90a878!important;
+}
+#header2-1 .mbr-section-title {
+  font-family: 'Indie Flower', cursive;
+  font-size: 72px;
 }
 #slider2-p .mbr-section-title,
 #slider2-p .mbr-section-lead {
   color: #fff;
+}
+#msg-box5-2 H3 {
+  font-family: 'Indie Flower', cursive;
 }
 #header3-o .mbr-section-title,
 #header3-o .mbr-section-subtitle {
@@ -486,6 +497,9 @@ h6,
 #social-buttons2-a .mbr-section-title,
 #social-buttons2-a .btn-social {
   color: #232323;
+}
+#social-buttons2-a .mbr-section-title {
+  font-family: 'Indie Flower', cursive;
 }
 #contacts2-8 P {
   color: #000000;
@@ -499,8 +513,14 @@ h6,
 #footer1-9 I {
   color: #000000;
 }
+
 #header4-e .mbr-section-title P {
   text-align: right;
+  font-family: 'Indie Flower', cursive;
+  font-size: 80px;
+}
+#header4-e .mbr-section-lead SPAN {
+  font-size: 20px;
 }
 #ext_menu-b .hide-buttons .nav-btn {
   display: none !important;
@@ -561,7 +581,7 @@ h6,
 }
 #ext_menu-b .link[aria-expanded="true"],
 #ext_menu-b .dropdown-item[aria-expanded="true"] {
-  color: #8c0200!important;
+  color: #90a878!important;
 }
 #contacts2-c P {
   color: #000000;
@@ -634,9 +654,12 @@ h6,
 }
 #ext_menu-g .link[aria-expanded="true"],
 #ext_menu-g .dropdown-item[aria-expanded="true"] {
-  color: #8c0200!important;
+  color: #90a878!important;
 }
 #form1-j .form-control-label {
+  color: #232323;
+}
+#form1-j .mbr-section-title {
   color: #232323;
 }
 #contacts2-h P {
@@ -651,6 +674,7 @@ h6,
 #footer1-i I {
   color: #000000;
 }
+
 #ext_menu-k .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -710,10 +734,11 @@ h6,
 }
 #ext_menu-k .link[aria-expanded="true"],
 #ext_menu-k .dropdown-item[aria-expanded="true"] {
-  color: #8c0200!important;
+  color: #90a878!important;
 }
 #header5-n .mbr-section-title {
   color: #000;
+  font-family: 'Indie Flower', cursive;
 }
 #header5-n .mbr-section-lead {
   color: #9c9a9a;
